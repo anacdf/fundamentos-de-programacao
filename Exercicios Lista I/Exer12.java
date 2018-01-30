@@ -1,9 +1,6 @@
 
 /**
  * Escreva a descrição da classe Exer12 aqui.
- * 
- * @author (seu nome) 
- * @version (número de versão ou data)
  */
 import java.util.Scanner;
 public class Exer12
@@ -29,10 +26,4 @@ public class Exer12
         
         System.out.println ("Serão \n" + nota100 + " notas de 100, \n" + nota50 + " notas de 50,\n " + nota20 + " notas de 20,\n " + nota10 + "notas de 10,\n " + nota5 + "notas de 5 e \n" + nota2 + "notas de 2 reais.");
     }
-    //n100 = valor/100
-    // r100=valor%100
-    
-    //n50 = r100/50
-    
-    //o valor de cima é a divisão do próximo
 }
