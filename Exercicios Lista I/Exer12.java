@@ -1,6 +1,7 @@
 
 /**
- * Escreva a descrição da classe Exer12 aqui.
+ * Faça um programa que leia uma quantia inteira em R$ e decompõe essa quantia na menor quantidade de notas 
+ * de 100, 50, 20, 10, 5, 2 e 1.
  */
 import java.util.Scanner;
 public class Exer12
