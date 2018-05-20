@@ -1,9 +1,9 @@
 
 /**
- * Escreva a descrição da classe Exer1 aqui.
+ * Primeiros passos.
  * 
- * @author (seu nome) 
- * @version (número de versão ou data)
+ * @author Ana
+ * @version 2017
  */
 public class Exer1
 {
